@@ -1,5 +1,5 @@
 """
-@author: Maziar Raissi
+@author: Maziar Raissia
 """
 
 import sys
